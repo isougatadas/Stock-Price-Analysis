@@ -1,0 +1,7 @@
+Python >= 2.7, 3.4+
+Pandas >=0.23.1
+Numpy >= 1.11.1
+requests >= 2.14.2
+lxml >= 4.5.1
+pandas_datareader >= 0.4.0
+yfinance == 0.1.67
