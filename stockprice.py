@@ -1,6 +1,10 @@
 import yfinance as yf
 import streamlit as st
 
+st.set_page_config(
+page_title="US Stock Analysis",
+)
+
 st.write("""
 # Stock Price Analysis
 Shown are the stock closing ***price*** and ***volume***
