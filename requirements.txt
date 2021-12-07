@@ -1,4 +1,4 @@
-Python >= 2.7, 3.4+
+Python >= 2.7
 Pandas >=0.23.1
 Numpy >= 1.11.1
 requests >= 2.14.2
